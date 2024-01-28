@@ -52,7 +52,7 @@ form .equal {
 }
 
 form input.operator {
-    color: #ff4444;
+    color: #ff4d4d;
 }
 
 @media only screen and (max-width: 576px) {
